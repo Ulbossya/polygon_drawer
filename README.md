@@ -1,3 +1,3 @@
 # polygon_drawer_app
 
-![image](https://github.com/Ulbossya/polygon_drawer/assets/102906052/73188532-f55f-4251-8718-b0e13a363368)
+![image](https://github.com/Ulbossya/polygon_drawer/assets/102906052/7de835d0-f433-48d6-b20c-5b44279c1898)
